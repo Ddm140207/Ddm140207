@@ -8,13 +8,15 @@
   [![Email](https://img.shields.io/badge/Email-ddiaz140207@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddiaz140207@gmail.com)
 </div>
 
-## 🔥 About Me
+## ⭐ About Me
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="185"/>
 
-- 👨‍💻 **18 Years Old** - Young tech enthusiast with a passion for innovation
-- 🌴 **Costa Rican** - Proud to represent my beautiful country in the tech world
-- 📊 **Data Driven** - Making decisions based on insights and analytics
+- 18 Years Old
+- Tech enthusiast with a passion for innovation and data science!
+- Born in Costa Rica
+- Data Driven
+- ENTP 
 
 <br clear="right"/>
 
@@ -35,7 +37,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🎨 Freelancer 🎨</h3>
+        <h3 align="center">E-Commerce</h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="100%"/>
@@ -73,13 +75,12 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="60" height="60"/></a>&nbsp;&nbsp;
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="60" height="60"/></a>
   </p>
-  <img src="https://img.shields.io/badge/Machine_Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-Advanced-FF4F8B?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Beginner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-Intermediate-FF4F8B?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Business_Intelligence-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/3D_Modeling-Intermediate-0696D7?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Graphic_Design-Advanced-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-Proficient-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace-Proficient-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-Expert-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-Expert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## 🌍 Languages & Communication

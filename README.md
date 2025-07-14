@@ -37,13 +37,13 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">E-Commerce</h3>
+        <h3 align="center"> NTK Solutions </h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="100%"/>
           </a>
           <p align="center">
-            Creating <b>customized digital solutions</b> for clients including <b>logos, advertisements, websites, and multimedia content</b> that stand out in today's competitive market.
+            Building customized digital tools to streamline lead management, automate operations, and enhance user engagement through chatbots.
           </p>
         </p>
       </td>

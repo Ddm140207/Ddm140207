@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQG9a7akrkeU_A/profile-displaybackgroundimage-shrink_350_1400/B4EZsGWaOqJgAY-/0/1765338096897?e=1777507200&v=beta&t=r9HQo0_eSAPd59kn8-B0lph7S0C2_lgeHnc9ZlYBvhk" width="100%" alt="NTK Solutions Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQG9a7akrkeU_A/profile-displaybackgroundimage-shrink_200_800/B4EZsGWaOqJgAU-/0/1765338096897?e=1788393600&v=beta&t=v_d44dVnFl8Srx0fKYQWYlhnWrxEqr6VMmkPR3DlAC4" width="100%" alt="NTK Solutions Banner" />
 </div>
 
 <div align="center">

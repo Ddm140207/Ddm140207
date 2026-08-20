@@ -8,24 +8,32 @@
 
 **Data-Driven Solutions for SMBs | CEO at NTK Solutions | Data Science**
 
-I help small and medium-sized businesses transform their data into operational efficiency and measurable growth by building intelligent systems that solve real problems.
+I help small and medium-sized businesses transform their data into operational efficiency and measurable growth by building intelligent systems that solve real business problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-diaz-montero-0ab275347)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ddiaz140207@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ntksolutions.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ddm140207)
-
-</div>
 
 ---
 
+### Portfolio
+
+Explore my projects, experience, and work across **data science, AI, automation, and product development.**
+
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-ddm.ntksolutions.com-18151A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ddm.ntksolutions.com)
+
+**[ddm.ntksolutions.com](https://ddm.ntksolutions.com)**
+
 ## About
 
-Data science engineer student focused on machine learning, business intelligence, and automation. Interested in model interpretability, LLM optimization, and building production ML systems.
+Data Science Engineering student focused on **machine learning, business intelligence, AI, and automation**. I enjoy turning complex data and emerging technologies into practical systems that solve real-world problems.
 
-Currently: LEAD University (Data Science Engineering)  
-Based: San José, Costa Rica
+My interests include **model interpretability, LLM optimization, AI agents, and production ML systems**, with a strong focus on building solutions that create measurable business impact.
 
-**Open to collaborations and projects combining data science, ML, and real business impact.**
+Currently: **LEAD University — Data Science Engineering**  
+Based in: **San José, Costa Rica**
+
+**Open to collaborations, projects, and opportunities combining data science, AI, and real-world impact.**
 
 ---
 
